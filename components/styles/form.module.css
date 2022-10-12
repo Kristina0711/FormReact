@@ -1,0 +1,23 @@
+.form {
+    width: 600px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.finput {
+    padding: 15px 15px;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+
+.fbtn {
+    padding: 20px 20px;
+    border: 5px solid purple;
+    background-color: palevioletred;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 35px;
+    border-radius: 15px;
+}
+
